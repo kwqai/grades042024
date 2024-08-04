@@ -1,1 +1,1 @@
-# Here ate Grades in JS
+# Here are Grades in JS
